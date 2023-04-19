@@ -1,10 +1,8 @@
 package com.caqart.todo.testcases;
 
 import com.caqart.todo.base.BaseTest;
-import com.caqart.todo.factory.DriverFactory;
 import com.github.javafaker.Faker;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
